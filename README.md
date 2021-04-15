@@ -4,7 +4,12 @@ This is a pack of flags in svg.
 For simplicity (or because of laziness, some would think) I made some tweaks to complex flags.
 There are different kinds of flags, partitioned by flag type.
 
-# Optimization
+## Image
+
+There it is — the worst flag compilation ever:
+![There was a picture of really bad arranged flags](flags.png)
+
+## Optimization
 
 Current files are fairly lightweight, but you might consider using some optimizer like [`svgo`](https://github.com/svg/svgo)
 
