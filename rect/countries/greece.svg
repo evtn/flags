@@ -1,9 +1,9 @@
 <svg viewBox="0 0 36 24">
     <rect width="36" height="24" fill="#2a7bba"/>
-    <rect y="2.66" width="36" height="2.66" fill="#f3f4f5" id="stripe"/>
-    <use href="#stripe" y="5.33"/>
-    <use href="#stripe" y="10.66"/>
-    <use href="#stripe" y="16"/>
+    <rect y="2.66" width="36" height="2.66" fill="#f3f4f5" id="greece-stripe"/>
+    <use href="#greece-stripe" y="5.33"/>
+    <use href="#greece-stripe" y="10.66"/>
+    <use href="#greece-stripe" y="16"/>
     <rect width="13.33" height="13.33" fill="#2a7bba"/>
     <rect x="5.33" width="2.66" height="13.33" fill="#f3f4f5"/>
     <rect y="5.33" height="2.66" width="13.33" fill="#f3f4f5"/>

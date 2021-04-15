@@ -1,8 +1,8 @@
 <svg viewBox="0 0 36 24" fill="#ffd62d">
     <rect width="36" height="24" fill="#e73a36"/>
     <polygon points="6 2.58 6.86 5.17 9.6 5.17 7.44 6.9 8.16 9.42 6 7.91 3.84 9.42 4.56 6.9 2.4 5.17 5.14 5.17"/>
-    <polygon points="14.4 7.26 14.69 8.12 15.6 8.12 14.88 8.7 15.12 9.54 14.4 9.04 13.68 9.54 13.92 8.7 13.2 8.12 14.11 8.12" id="small-star" transform="rotate(-15 10 6)"/>
-    <use href="#small-star" transform="rotate(-60 10 6)"/>
-    <use href="#small-star" transform="rotate(-30 10 6)"/>
-    <use href="#small-star" transform="rotate(30 10 6)"/>
+    <polygon points="14.4 7.26 14.69 8.12 15.6 8.12 14.88 8.7 15.12 9.54 14.4 9.04 13.68 9.54 13.92 8.7 13.2 8.12 14.11 8.12" id="china-star" transform="rotate(-15 10 6)"/>
+    <use href="#china-star" transform="rotate(-60 10 6)"/>
+    <use href="#china-star" transform="rotate(-30 10 6)"/>
+    <use href="#china-star" transform="rotate(30 10 6)"/>
 </svg>
