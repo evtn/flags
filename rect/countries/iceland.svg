@@ -2,6 +2,8 @@
     <rect width="36" height="24" fill="#13467c"/>
     <rect x="10" width="6" height="24" fill="#f3f4f5"/>
     <rect y="9" width="36" height="6" fill="#f3f4f5"/>
-    <rect x="11" width="4" height="24" fill="#b22e40"/>
-    <rect y="10" width="36" height="4" fill="#b22e40"/>
+    <g fill="#b22e40">
+        <rect x="11" width="4" height="24"/>
+        <rect y="10" width="36" height="4"/>
+    </g>
 </svg>
