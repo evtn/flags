@@ -1,0 +1,15 @@
+<svg viewBox="0 0 36 24">
+    <rect x="0" y="0" width="36" height="24" fill="#13467c"/>
+    <polygon id="star" points="18 2.75 18.38 3.52 19.25 3.65 18.62 4.28 18.77 5.12 18 4.72 17.23 5.12 17.38 4.28 16.75 3.65 17.6 3.52" fill="#ffd62d"/>
+    <use href="#star" transform="rotate(30 18 12) rotate(-30 18 4)"/>
+    <use href="#star" transform="rotate(60 18 12) rotate(-60 18 4)"/>
+    <use href="#star" transform="rotate(90 18 12) rotate(-90 18 4)"/>
+    <use href="#star" transform="rotate(120 18 12) rotate(-120 18 4)"/>
+    <use href="#star" transform="rotate(150 18 12) rotate(-150 18 4)"/>
+    <use href="#star" transform="rotate(180 18 12) rotate(-180 18 4)"/>
+    <use href="#star" transform="rotate(210 18 12) rotate(-210 18 4)"/>
+    <use href="#star" transform="rotate(240 18 12) rotate(-240 18 4)"/>
+    <use href="#star" transform="rotate(270 18 12) rotate(-270 18 4)"/>
+    <use href="#star" transform="rotate(300 18 12) rotate(-300 18 4)"/>
+    <use href="#star" transform="rotate(330 18 12) rotate(-330 18 4)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 36 24">
+    <rect width="7.2" height="24" fill="#09F911"/>
+    <rect x="7.2" width="7.2" height="24" fill="#029D74"/>
+    <rect x="14.4" width="7.2" height="24" fill="#E35BD8"/>
+    <rect x="21.6" width="7.2" height="24" fill="#4156C5"/>
+    <rect x="28.8" width="7.2" height="24" fill="#635688"/>
+    <text x="35" y="23" text-anchor="end" font-size="3" fill="white">+C0</text>
+</svg>

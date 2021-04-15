@@ -1,0 +1,11 @@
+<svg viewBox="0 0 36 24">
+    <rect width="36" height="24" fill="#e73a36"/>
+    <rect y="1.85" width="36" height="1.85" fill="#f3f4f5" id="stripe"/>
+    <use href="#stripe" y="3.7"/>
+    <use href="#stripe" y="7.4"/>
+    <use href="#stripe" y="11.1"/>
+    <use href="#stripe" y="14.8"/>
+    <use href="#stripe" y="18.5"/>
+    <rect width="18" height="12.95" fill="#13467c"/>
+    <polygon points="9 2.67 9.96 5.55 13 5.55 10.6 7.47 11.4 10.27 9 8.59 6.6 10.27 7.4 7.47 5 5.55 8.04 5.55" fill="white"/>
+</svg>

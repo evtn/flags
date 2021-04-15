@@ -1,0 +1,7 @@
+<svg viewBox="0 0 36 24">
+    <rect width="36" height="24" fill="#2a7bba"/>
+    <polygon points="0 0 36 0 0 24" fill="#008e55"/>
+    <line y1="24" x2="36" stroke="#ffd62d" stroke-width="6"/>
+    <line y1="24" x2="36" stroke="#141414" stroke-width="4"/>
+</svg>
+
