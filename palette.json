@@ -1,0 +1,22 @@
+{
+    "red": "#e73a36", // Belgium
+    "beetroot-red": "#7c214a", // Qatar
+    "wine-red": "#b22e40", // Italy
+    
+    "blue": "#2a7bba", // Estonia
+    "light-blue": "#45aee2", // Luxembourg
+    "navy-blue": "#13467c", // UK
+    "deep-purple": "#292549", // Thailand
+    
+    "green": "#48a947", // Italy
+    "shamrock-green": "#008e55", // Ireland
+    
+    "yellow": "#ffd62d", // Colombia
+    "pale-yellow": "#ffe167" // Belgium
+    "orange": "#fb9e33", // Ireland
+    
+    "black": "#141414", // Belgium
+    "light-grey": "#e0e0e0",
+    "white": "#f3f4f5" // Italy
+}
+
